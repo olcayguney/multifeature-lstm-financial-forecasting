@@ -1,0 +1,2 @@
+# multifeature-lstm-financial-forecasting
+This project focuses on forecasting stock prices using an LSTM neural network. Stock prices are normalized in USD by aligning hourly USD/TRY exchange rates, followed by extensive feature engineering including trend, momentum, volatility, volume, and statistical indicators. The goal is to build a robust deep learning pipeline for financial time-series prediction.
